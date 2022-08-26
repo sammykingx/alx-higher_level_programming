@@ -1,5 +1,5 @@
 # Pythonn - Import and Modules
-![alt_text](https://medium.com/@alains/learn-python-by-example-how-do-you-import-a-module-in-python-5a8eb447e4db)
+![alt_text](https://www.mybluelinux.com/python-whats-init-for-me/)
 
 ## Resources
 * Modules
