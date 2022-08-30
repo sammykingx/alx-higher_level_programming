@@ -1,7 +1,10 @@
 # 0x03-Data Structures in Python
-![alt_text](https://www.pexels.com/photo/code-coding-computer-cyberspace-270373/)
+![Python_data_structures](https://www.tutorialandexample.com/wp-content/uploads/2020/12/image-17.png)
+
 ## Requirements
+
 ### Python Scripts
+
 * Allowed editors: `vi`, `vim`, `emacs`
 * All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 * All your files should end with a new line
@@ -10,7 +13,9 @@
 * Your code should use the pycodestyle (version 2.8.*)
 * All your files must be executable
 * The length of your files will be tested using wc
+
 ### C
+
 * Allowed editors: `vi`, `vim`, `emacs`
 * All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 * All your files should end with a new line
