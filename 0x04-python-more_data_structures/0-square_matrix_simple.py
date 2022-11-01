@@ -1,8 +1,18 @@
 #!/usr/bin/python3
 def square_matrix_simple(matrix=[]):
-    new_matrix = matrix.copy()
+    '''
+        A function that returns the square value of all elements in a
+        multi dimensional list been passed as arguments.
 
-    for i in range(len(matrix)):
-        new_matrix[i] = list(map(lambda x: x**2, matrix[i]))
 
-    return (new_matrix)
+        Returns a new matrix that is of same size as the size of the
+        matrix passed to it as arguments.
+
+        You are allowed to use regular loops, map, etc
+    '''
+    new_lst = []
+    if len(lst) == 0:
+        return new_lst
+
+    new_lst = [[i*i for i in j] for j in matrix]
+    return new_lst
