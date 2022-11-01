@@ -11,7 +11,7 @@ def square_matrix_simple(matrix=[]):
         You are allowed to use regular loops, map, etc
     '''
     new_lst = []
-    if len(lst) == 0:
+    if len(matrix) == 0:
         return new_lst
 
     new_lst = [[i*i for i in j] for j in matrix]
