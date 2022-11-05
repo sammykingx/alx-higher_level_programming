@@ -10,10 +10,9 @@ def search_replace(my_list, search, replace):
 
     new_lst = [element if element != search else replace for element in my_list]
     return new_lst
-
-
+'''
 # Test
 my_lst = [1, 2, 3, 4, 5, 7, 8]
 print(my_lst)
 print(search_replace(my_lst, 2, 89))
-
+'''
