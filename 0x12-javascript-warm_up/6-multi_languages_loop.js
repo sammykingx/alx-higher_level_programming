@@ -7,7 +7,7 @@
    Using for loop to get this done, however other loop can still work.
 
 */
-const lang = ['c programming', 'python programming', 'Javasript'];
+const lang = ['c is fun', 'Python is so cool', 'Javasript is amazing'];
 for (const item of lang) {
   console.log(item);
 }
