@@ -8,7 +8,7 @@
 
 */
 const value = process.argv[2];
-if (isNaN(value)) {
+if (isNaN(value) || value === undefined) {
   console.log('Not a number');
 } else {
   console.log('My number: ', value | 0);
